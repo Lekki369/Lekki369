@@ -24,3 +24,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lekki369&show_icons=true&locale=en" alt="lekki369" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lekki369&" alt="lekki369" /></p>
+
+
+
+[![Lekki369's GitHub | Stats](https://stats.quine.sh/Lekki369/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=Lekki369)
