@@ -1,9 +1,6 @@
 <h1 align="center">Olamilekan Oluwatobiloba Awomewe</h1>
-<h3 align="center">Mobile Developer & Data Scientist | Climate Technology Solutions</h3>
+<h3 align="center">Mobile Developer & Data Scientist | Data Analyst</h3>
 
-<p align="center">
-Developing data-driven mobile applications that address environmental challenges across Nigeria and emerging markets
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lekki369&label=Profile%20views&color=0e75b6&style=flat" alt="lekki369" />
@@ -21,17 +18,9 @@ Developing data-driven mobile applications that address environmental challenges
 
 **Current Technical Development**: Flutter framework for cross-platform mobile applications, Dart programming language, Python ecosystem for data science, R statistical computing, SQL database management, Power BI business intelligence, and advanced Excel analytics.
 
-**Core Expertise**: Mobile application development with emphasis on environmental data collection, real-time analytics integration, and offline-capable solutions for field research applications.
+**Core Expertise**: Mobile application development, Data analytics and science.
 
 **Professional Contact**: awomeweolamilekan@gmail.com
-
----
-
-## Technical Specialization
-
-I focus on building robust mobile applications that integrate complex environmental datasets with user-friendly interfaces. My work combines meteorological science background with modern software development practices to create solutions that operate effectively in challenging connectivity environments while providing sophisticated analytical capabilities.
-
-My development approach emphasizes creating applications that serve practical needs in emerging markets, particularly in agricultural and environmental monitoring sectors. This includes developing offline-capable data collection systems, real-time visualization dashboards, and hardware-integrated sensor solutions.
 
 ---
 
@@ -105,7 +94,3 @@ My development approach emphasizes creating applications that serve practical ne
 </p>
 
 ---
-
-## Professional Objective
-
-My development work focuses on creating mobile applications that transform complex environmental data into actionable insights for communities and organizations across Nigeria and similar emerging markets. This involves building applications that function reliably in areas with intermittent connectivity while providing sophisticated data analysis capabilities that support informed decision-making in agriculture, environmental monitoring, and climate adaptation initiatives.
